@@ -41,7 +41,61 @@ $ruta="";
 		</div>
 	</header>
 
+	<section>
+	<div class="ct">
+	 <div class="carrusel">
 
+	    <img id="1" class="imgcarrusel" src="src/img/slide-0.png">
+	    <img id="2" class="imgcarrusel" src="src/img/slide-1.png">
+	    <img id="3" class="imgcarrusel" src="src/img/slide-2.png">
+
+		  <div class="flechas">
+		     <div class="Izquierda">
+		     <a class="btnMover" id="flechaIzquierda"><img src="src/img/flechaIzquierda.png"></a>
+		     </div>
+
+		     <div class="Derecha">
+		     <a class="btnMover" id="flechaDerecha" ><img src="src/img/flechaDerecha.png"></a>
+		     </div>
+		   </div>
+      </div>
+     
+     <div class="to">
+      <div class="iconof">
+
+        <a href="https://www.facebook.com/luisito.lozacasta?fref=ts"><img src="src/img/iconofacebook.png"></a>
+        
+      </div>
+
+      <div class="telefono">
+        <p>Teléfono:</p>
+        <p>2 2732 1060</p>
+     </div>
+     </div>
+
+      </div>
+
+
+	<div class="divisionOferta">
+		<h2 align="center" class="oferta">Ofertas</h2>
+	</div>
+
+
+	<div class="divisiontotal">
+
+		<div class="division1">
+		<p >Pizza Familiar + Bebida </p>
+		<p> $8.000</p>
+		<img src="src/img/pizzacuadrada2.png">
+		</div>	
+
+		<div class="division2">
+		<p>2 Pizza Familiar + Bebida</p>
+		<p> $12.000</p>
+		<img src="src/img/pizzaFamiliarpromo2.png">
+		</div>
+	</div>
+	</section>
 	
 
 
