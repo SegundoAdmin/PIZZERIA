@@ -1,0 +1,92 @@
+.total
+{
+width: 100%;
+height: 390px;
+text-align: center;
+
+}
+.subtotal1
+{
+width: 40%;
+height: 390px;
+background: red;
+float: left;
+
+}
+.subtotal2
+{
+width: 60%;
+height: 390px;
+background: red;
+float: right;
+
+}
+.subtotal2 img
+{
+	transition: .4s;
+	margin-top: 14px;
+}
+.subtotal2 img:hover
+{
+transition: .4s;
+transform: scale(1.1);
+
+}
+.p1
+{
+
+	color: #fff;
+	font: small-caps 100%/200% serif;
+}
+.p2
+{
+width: 100%;
+height: auto;
+font-family: arial;
+color: #fff;
+
+}
+.formulario{
+	width: 200px;
+	height: auto;
+	float: left;
+	border: 2px solid  #fff;
+	padding: 30px;
+	box-sizing: border-box;
+	margin: 5px 5px 5px 170px;
+	transition: .4s;
+
+}
+.forletra
+{
+	color: #fff;
+	font-family: fantasy;
+}
+
+.formulario:hover
+{
+transition: .4s;
+transform:scale(1.1);
+}
+.franjas
+{
+width: 100%;
+height: 100px;
+background: #fff;
+}
+.local
+{
+font-family: fantasy;
+font-size: 500%;
+text-align: center;
+}
+.imagenlocal
+{
+margin:5px 5px 5px 135px;
+transition: .4s;
+}
+.imagenlocal:hover
+{
+transition: .4s;
+transform:scale(1.1);
+}
